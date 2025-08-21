@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b392e40-b66c-4122-b855-26d8bb171865" name="Changes" comment="Clase,estudiante, curso, Profesor.java" />
+    <list default="true" id="2b392e40-b66c-4122-b855-26d8bb171865" name="Changes" comment="Clase,estudiante, curso, Profesor.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Univerdidad/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Univerdidad/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Univerdidad/src/main/java/uniquindio/edu/co/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Univerdidad/src/main/java/uniquindio/edu/co/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Univerdidad/src/main/java/uniquindio/edu/co/model/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/Univerdidad/src/main/java/uniquindio/edu/co/model/Estudiante.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +59,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.uniquindio.edu.co.Main.executor": "Profiler#1",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",

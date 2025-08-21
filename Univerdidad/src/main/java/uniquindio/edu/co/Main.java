@@ -19,5 +19,6 @@ public class Main {
         curso.agregarEstudianteCurso(estudiante3);
 
         System.out.println(curso.toString());
+
     }
 }

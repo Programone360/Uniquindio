@@ -7,18 +7,32 @@ public class Estudiante {
     private String email, id, telefono;
     private int edad;
 
-    public Estudiante(String nombre, String apellido, String email, String id, String telefono, int edad){
-        this.nombre=nombre;
-        this.apellido=apellido;
-        this.email=email;
-        this.id=id;
-        this.telefono=telefono;
-        this.edad=edad;
+    public Estudiante(
+            String nombre,
+            String apellido,
+            String email,
+            String id,
+            String telefono,
+            int edad
+                     ) {
+        this.nombre = nombre;
+        this.apellido = apellido;
+        this.email = email;
+        this.id = id;
+        this.telefono = telefono;
+        this.edad = edad;
     }
 
-    public String getId(){
+
+    public String getId() {
         return id;
     }
+
+
+    public void setId(String id) {
+        this.id = id;
+    }
+
 
     @Override
     public String toString() {
