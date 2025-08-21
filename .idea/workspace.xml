@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b392e40-b66c-4122-b855-26d8bb171865" name="Changes" comment="Clase,estudiante y curso">
-      <change afterPath="$PROJECT_DIR$/Univerdidad/src/main/java/uniquindio/edu/co/model/Profesor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2b392e40-b66c-4122-b855-26d8bb171865" name="Changes" comment="Clase,estudiante, curso, Profesor.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,12 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1755752633979</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Clase,estudiante, curso, Profesor.java">
+      <option name="closed" value="true" />
+      <created>1755753457838</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1755753457838</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="MARK_IGNORED_AS_EXCLUDED" value="true" />
     <MESSAGE value="Clase,estudiante y curso" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clase,estudiante y curso" />
+    <MESSAGE value="Clase,estudiante, curso, Profesor.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clase,estudiante, curso, Profesor.java" />
   </component>
 </project>
