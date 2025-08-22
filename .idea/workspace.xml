@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b392e40-b66c-4122-b855-26d8bb171865" name="Changes" comment="Clase,estudiante, curso, Profesor.java">
+    <list default="true" id="2b392e40-b66c-4122-b855-26d8bb171865" name="Changes" comment="Clase,estudiante, curso, Profesor y get y set">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Univerdidad/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Univerdidad/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Univerdidad/src/main/java/uniquindio/edu/co/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Univerdidad/src/main/java/uniquindio/edu/co/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Univerdidad/src/main/java/uniquindio/edu/co/model/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/Univerdidad/src/main/java/uniquindio/edu/co/model/Estudiante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Univerdidad/src/main/java/uniquindio/edu/co/model/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/Univerdidad/src/main/java/uniquindio/edu/co/model/Curso.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,25 +54,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.uniquindio.edu.co.Main.executor": "Profiler#1",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/fheru/OneDrive/Desktop/Programacion1-2025",
-    "onboarding.tips.debug.path": "C:/Users/fheru/OneDrive/Desktop/Programacion1-2025/Univerdidad/src/main/java/uniquindio/edu/co/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.uniquindio.edu.co.Main.executor&quot;: &quot;Profiler#1&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/fheru/OneDrive/Desktop/Programacion1-2025&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/fheru/OneDrive/Desktop/Programacion1-2025/Univerdidad/src/main/java/uniquindio/edu/co/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\fheru\OneDrive\Desktop\Programacion1-2025" />
@@ -117,13 +116,22 @@
       <option name="project" value="LOCAL" />
       <updated>1755753457838</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Clase,estudiante, curso, Profesor y get y set">
+      <option name="closed" value="true" />
+      <created>1755790625104</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1755790625104</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="MARK_IGNORED_AS_EXCLUDED" value="true" />
     <MESSAGE value="Clase,estudiante y curso" />
     <MESSAGE value="Clase,estudiante, curso, Profesor.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clase,estudiante, curso, Profesor.java" />
+    <MESSAGE value="Clase,estudiante, curso, Profesor y get y set" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clase,estudiante, curso, Profesor y get y set" />
   </component>
 </project>
